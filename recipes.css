@@ -4,11 +4,17 @@ body {
     rgba(255, 234, 0, 0.34)
     ); 
 }
+.side_element {
+    width:500px;
+    padding:20px;
+    height:100px;
+    overflow-wrap:break-word;
+    display:block;
+    margin:30px
+}
 h1 {
-    text-align:center;
+    margin:0;
     color:white;
-    font-size:50px;
+    font-size:300px;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    margin-bottom:75px;
-    margin-left:-20%;
 }

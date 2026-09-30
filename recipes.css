@@ -1,0 +1,14 @@
+body {
+    background:/*:brown*/linear-gradient(to right,
+    rgba(177, 45, 45, 0.7),
+    rgba(255, 234, 0, 0.34)
+    ); 
+}
+h1 {
+    text-align:center;
+    color:white;
+    font-size:50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom:75px;
+    margin-left:-20%;
+}
